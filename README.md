@@ -1,0 +1,1 @@
+# PyQt5_Photo_Editor_toplu
